@@ -1,0 +1,5 @@
+int budget = 20;
+	    System.out.println(" can ibuy the gift " + (budget < 30 && budget < 80 ));
+	   
+	    int budget1 = budget + 20;
+	    System.out.println(" can i buy the gift " + (budget1 < 30 && budget1 < 80 ));
